@@ -132,3 +132,6 @@ dmypy.json
 /dataset/
 /output/
 /pretrain/
+.idea/
+.DS_Store
+
